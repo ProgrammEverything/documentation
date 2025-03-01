@@ -1,9 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: Documentation
 theme: just-the-docs
-
-url: https://just-the-docs.github.io
+username: ProgrammEverything
+description: Documentation for all ProgrammEverything's projects
+email: sasanxcoder@gmail.com
+name: Sasan salehi
+repo: documentation
+url: https://ProgrammEverything.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
- 
+  Repository: "https://github.com/ProgrammEverything/documentation" 
+  Github page: "https://github.com/ProgrammEverything"
+aux_links_new_tab: true
+footer_content: "Made by <a href=\"https://github.com/ProgrammEverything/\">ProgrammEverything</a> (Sasan Salehi)<br>Check license before using this repository"
+color_scheme: dark
