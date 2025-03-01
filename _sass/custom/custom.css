@@ -1,0 +1,7 @@
+.site-title {
+    font-size: 1rem !important; /* Adjust size as needed */
+    font-weight: normal; /* Make it lighter if needed */
+}
+* {
+    font-family: 'Consolas';
+}

@@ -4,7 +4,6 @@ layout: home
 nav_order: 1
 ---
 # Welcome!
-
 Welcome to my documentation website. \
 This website contains or will contain all of my project's documentations. \
 Instead of putting the documentation on the project's README. \

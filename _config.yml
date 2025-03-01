@@ -5,11 +5,11 @@ description: Documentation for all ProgrammEverything's projects
 email: sasanxcoder@gmail.com
 name: Sasan salehi
 repo: documentation
+title: Documentation
 url: https://ProgrammEverything.github.io
-
+favicon_ico: "/assets/default/images/favicon.ico"
 aux_links:
   Repository: "https://github.com/ProgrammEverything/documentation" 
   Github page: "https://github.com/ProgrammEverything"
 aux_links_new_tab: true
-footer_content: "Made by <a href=\"https://github.com/ProgrammEverything/\">ProgrammEverything</a> (Sasan Salehi)<br>Check license before using this repository"
 color_scheme: dark
