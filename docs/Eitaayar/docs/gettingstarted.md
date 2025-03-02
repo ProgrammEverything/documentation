@@ -15,5 +15,3 @@ py -m pip install EiaaAPI
 ```
 python3 -m pip install EitaaAPI
 ```
-# PyPi Page:
-[Link to the project page](https://pypi.org/project/EitaaAPI/)

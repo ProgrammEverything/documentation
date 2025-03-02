@@ -14,3 +14,12 @@ aux_links:
   Github page: "https://github.com/ProgrammEverything"
 aux_links_new_tab: true
 color_scheme: dark
+defaults:
+  - scope:
+      path: "docs/"
+    values:
+      nav_order: 1
+  - scope:
+      path: "info/"
+    values:
+      nav_order: 2

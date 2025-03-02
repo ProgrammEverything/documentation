@@ -1,7 +1,6 @@
 ---
 title: Home
 layout: home
-nav_order: 1
 ---
 # Welcome!
 Welcome to my documentation website. \

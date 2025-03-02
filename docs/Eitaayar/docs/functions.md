@@ -33,4 +33,3 @@ session = EitaaAPI.Session("YOUR_API_KEY", "YOUR_CHAT_ID")
 session.SendMessage("Example Message")
 ```
 The SendMessage function has other flags such as disable_notification which is a flag for the EitaaAPI
-#### Original documentation from [Repo](https://github.com/ProgrammEverything/EitaaAPI/blob/main/README.md) <a>(README.md)</a>
